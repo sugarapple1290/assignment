@@ -1,0 +1,7 @@
+print("python")
+print("variables")
+print("syntax")
+print("keywords")
+print("identifier")
+print("git")
+print("GitHub")
