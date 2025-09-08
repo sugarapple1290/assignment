@@ -9,13 +9,8 @@ print(ambition)
 hobby="drawing"
 print(hobby)
 
-a="student"
-print(a)
-b="school"
-print(b)
-c="grade"
-print(c)
-d="ambition"
-print(d)
-e="hobby"
-print(e)
+print("student")
+print("school")
+print("grade")
+print("ambition")
+print("hobby")
