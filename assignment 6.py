@@ -1,3 +1,5 @@
+#students score
+
 name=input("what is your name")
 print(type(name))
 science=input("what is your science score")
@@ -10,3 +12,5 @@ sc=input("what is your sc score ")
 print(type(sc))
 cs=input("what is your cs score ")
 print(type(cs))
+total=input("what is your total marks")
+print(total)
