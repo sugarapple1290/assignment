@@ -57,21 +57,32 @@ print("After adding 10:", help)
 
 
 # Task no 6
- 
- # Task no 7
+Totalmarks = 0
+math=89 
+Totalmarks += math 
+
+English = 90
+Totalmarks += English
+
+arabic =90
+Totalmarks += arabic
+print("Total Marks:",Totalmarks)
+
+
+#Task no 7
 Amount=1000
-Rate=10
-year=1
+rate=  0.10
 
-Amount= 1000 +( 1000*10)
-print("the result  will be: " ,Amount)
+Amount*= (1+rate)  
+print("Amount after 1 year:",Amount)
 
-#Task 8
+
+#Task no 8
 # Formula:
 # F = C * 9/5 + 32
 
 celsiustemp = 50
 # Convert to Fahrenhiet
 
-fahrenheittemp = celsiustemp * 9/5 + 32
-print("(celsiustemp)°C is equal to (fahrenheittem):" ,fahrenheittemp)
+fahrenheit = celsiustemp * 9/5 + 32
+print("(celsiustemp)°C is equal to (fahrenheit):" ,fahrenheit)
